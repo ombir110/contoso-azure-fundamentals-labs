@@ -15,7 +15,7 @@ The Azure Portal is a web-based interface used to create and manage resources.
 - Use **Resource Groups** to organize resources
 
 <div style="text-align: center;">
-  <img src="images/portal.jpg" width="600"/>
+  <img src="images/100.jpg" width="600"/>
   <p><em>Azure Portal Interface Overview</em></p>
 </div>
 
