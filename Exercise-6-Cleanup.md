@@ -11,7 +11,7 @@ Delete resources to avoid cost.
 ### Step 1: Delete Resource Group
 
 - Go to Resource Groups
-- Select `rg-demo-az900`
+- Select `rg-testdemo`
 - Click **Delete**
 
   <div style="text-align: center;">
