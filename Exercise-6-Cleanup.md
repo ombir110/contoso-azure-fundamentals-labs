@@ -14,7 +14,10 @@ Delete resources to avoid cost.
 - Select `rg-demo-az900`
 - Click **Delete**
 
-📸 Screenshot: Delete option  
+  <div style="text-align: center;">
+  <img src="images/28.jpg" width="600"/>
+  <p><em>Delete option</em></p>
+  </div>  
 
 ---
 
