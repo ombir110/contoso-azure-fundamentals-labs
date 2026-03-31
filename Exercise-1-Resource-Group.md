@@ -14,7 +14,7 @@ Create a logical container to organize Azure resources.
 - Sign in to your account
 
   <div style="text-align: center;">
-  <img src="images/portal.jpg" width="600"/>
+  <img src="images/100.jpg" width="600"/>
   <p><em>Azure Portal Dashboard</em></p>
   </div>
 
